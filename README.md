@@ -79,7 +79,10 @@ Hệ thống triển khai một quy trình xử lý mật khẩu nhiều lớp �
 
   * JavaScript
 ## Giao diện người dùng
-## 📸 Ảnh chụp màn hình
+## Ảnh chụp màn hình
 
-<img src="https://github.com/ngocminhkien/BTL-ATBMTT-nh-m-8-/blob/main/images/.gif?raw=true" alt="Giao diện Đăng nhập/Đăng ký" width="600" />
+<img src="https://github.com/ngocminhkien/BTL-ATBMTT-nh-m-8-/blob/main/images/dn.gif?raw=true" alt="Giao diện Đăng nhập" width="600" />
+<img src="https://github.com/ngocminhkien/BTL-ATBMTT-nh-m-8-/blob/main/images/dk.gif?raw=true" alt="Giao diện Đăng ký" width="600" />
+<img src="https://github.com/ngocminhkien/BTL-ATBMTT-nh-m-8-/blob/main/images/user.gif?raw=true" alt="Giao diện Người dùng" width="600" />
+<img src="https://github.com/ngocminhkien/BTL-ATBMTT-nh-m-8-/blob/main/images/am.gif?raw=true" alt="Giao diện Quản trị viên" width="600" />
 
